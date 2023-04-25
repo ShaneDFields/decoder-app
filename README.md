@@ -13,7 +13,7 @@
 
 <p>
 This was a lot of fun. I created this program because if there's one thing I wish I could be, it's a spy. 
-But because I enjoy coding so much, I decided to merge the two. I wanted to create a fun cipher app. I utilized JavaScript string and array methods
+But because I enjoy coding so much, I decided to merge the two. I wanted to create a cipher app that would allow me to do both. I utilized JavaScript string and array methods
 to alter the data and return the changed data depending on the method used set by the user.
 </p>
 
