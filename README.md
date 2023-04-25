@@ -8,7 +8,7 @@
 
 
 
-<h2>How It's Made: </h2>
+<h2>How It's Made </h2>
 <p>Tech used: HTML, CSS, Bootstrap, JavaScript
 
 <p>
@@ -18,12 +18,12 @@ to alter the data and return the changed data depending on the method used set b
 </p>
 
 
-<h2>What It Does: </h2>
+<h2>What It Does </h2>
 
 <p> This application allows users to enter a message to be encoded or decoded in one of three ciphers: Caesar Shift, Polybius Square, and Substitution Cipher. After selecting the cipher and method, the user can enter their message, and their newly encoded or decoded message will be outputted.
  </p>
 
-<h2>Lessons Learned: </h2>
+<h2>Lessons Learned </h2>
 
 <p> This project taught me a great deal about string and array methods. It forced me to learn how to manipulate entered data and return that data modified
 correctly.
